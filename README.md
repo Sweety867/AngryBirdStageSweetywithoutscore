@@ -1,2 +1,1 @@
-# AngryBirdStageSweetywithoutscore
-without score
+# AngryBirdsStage7
